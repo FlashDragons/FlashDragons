@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlashDragons. I'm from China, you can call me '闪火龙' in Chinese. 
 -   On most social software websites, my ID is '世界重构'.
 -   Just like my avatar, I really like Minecraft, which is also my biggest motivation for learning Java.
--   Java Edition ID: Flash_ Dragons, Bedrock Edition ID: FlashDragons. Perhaps one day you will encounter me on a certain server.
+-   Minecraft Java Edition ID: Flash_ Dragons, Bedrock Edition ID: FlashDragons. Perhaps one day you will encounter me on a certain server.
 - 👀 I’m interested in Java and Python. Currently, computer classes in school are teaching Python, so I plan to learn Java later.
 -   My goal is to be able to write modules in Minecraft.
 - 🌱 I’m currently learning pharmacy, which is my professional course.
