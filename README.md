@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlashDragons. I'm from China, you can call me '闪火龙' in Chinese. 
+- 👋 Hi, I’m @FlashDragons. I'm from China. 
 -   On most social software websites, my ID is '世界重构'.
 -   Just like my avatar, I really like Minecraft, which is also my biggest motivation for learning Java.
 -   Minecraft Java Edition ID: Flash_ Dragons, Bedrock Edition ID: FlashDragons. Perhaps one day you will encounter me on a certain server.
