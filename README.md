@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @FlashDragons. I'm from China. 
--   On most social software websites, my ID is '世界重构'.
+- 👋 Hi, I’m @FlashDragons. I'm from China.
 -   Just like my avatar, I really like Minecraft, which is also my biggest motivation for learning Java.
 -   Minecraft Java Edition ID: Flash_ Dragons, Xbox ID: FlashDragons. Perhaps one day you will encounter me on a certain server.
 - 👀 I’m interested in Java. But the computer programming of the school is python, and recently the Final examination ended, I plan to learn Java later.
