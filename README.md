@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlashDragons. I'm from China.
--   Just like my avatar, I really like Minecraft, which is also my biggest motivation for learning Java.
+-   I really like Minecraft, which is also my biggest motivation for learning Java.
 -   Minecraft Java Edition ID: Flash_ Dragons, Xbox ID: FlashDragons. Perhaps one day you will encounter me on a certain server.
 - 👀 I’m interested in Java. Now I'm learning Java, and my goal is to be able to write mods in Minecraft.
 - 🌱 I’m currently learning pharmacy, which is my professional course.
